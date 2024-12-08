@@ -1,0 +1,23 @@
+
+
+.rb {
+    background-color: rgba(197, 82, 82, 0.419);
+}
+
+#two {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 32px;
+}
+
+#three {
+    font-size: larger;
+
+}
+
+#four {
+    background-color: rgba(87, 175, 107, 0.512);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
